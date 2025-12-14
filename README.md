@@ -131,16 +131,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">Other</h2>
 
 <p align="center">
 <a href="https://amkilopa.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/AmKilopa" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </p>
 
