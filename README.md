@@ -136,7 +136,7 @@
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://github.com/AmKilopa" target="_blank">
+<a href="https://amkilopa.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/AmKilopa" target="_blank">
