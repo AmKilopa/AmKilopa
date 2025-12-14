@@ -52,10 +52,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmKilopa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&icon_color=7aa2f7&title_color=7aa2f7" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/AmKilopa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmKilopa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=7aa2f7" alt="Top Languages" />
-</a>
-
 </div>
 
 <br>
