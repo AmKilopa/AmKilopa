@@ -49,7 +49,7 @@
 <div align="center">
 
 <a href="https://github.com/AmKilopa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmKilopa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&icon_color=7aa2f7&title_color=7aa2f7" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AmKilopa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&icon_color=7aa2f7&title_color=7aa2f7&text_color=c0caf5" alt="GitHub Stats" />
 </a>
 
 </div>
@@ -59,7 +59,7 @@
 <div align="center">
 
 <a href="https://github.com/AmKilopa">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmKilopa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmKilopa&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=f7768e&currStreakLabel=c0caf5" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -88,13 +88,29 @@
 
 <br>
 
-<h2 align="center">Activity Graph</h2>
+<h2 align="center">Profile Summary</h2>
 
 <div align="center">
 
-<a href="https://github.com/AmKilopa">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmKilopa&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmKilopa&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmKilopa&theme=tokyonight" alt="Repos Per Language" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmKilopa&theme=tokyonight" alt="Most Commit Language" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmKilopa&theme=tokyonight" alt="Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmKilopa&theme=tokyonight&utcOffset=3" alt="Productive Time" />
 
 </div>
 
@@ -103,33 +119,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-
-<h2 align="center">Recent Activity</h2>
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-<h2 align="center">GitHub Metrics</h2>
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/AmKilopa?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&habits=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&notable.from=organization&notable.repositories=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMoscow&config.theme=dark" alt="GitHub Metrics" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">Other</h2>
 
