@@ -42,24 +42,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-
-<h2 align="center">Recent Activity</h2>
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AmKilopa/KlpSu](https://github.com/AmKilopa/KlpSu)<br>
-2. ⬆️ Pushed undefined commit(s) to [AmKilopa/KlpSu](https://github.com/AmKilopa/KlpSu)<br>
-3. ⬆️ Pushed undefined commit(s) to [AmKilopa/AmKilopa](https://github.com/AmKilopa/AmKilopa)<br>
-4. ⬆️ Pushed undefined commit(s) to [AmKilopa/AmKilopa](https://github.com/AmKilopa/AmKilopa)<br>
-5. ⬆️ Pushed undefined commit(s) to [AmKilopa/AmKilopa](https://github.com/AmKilopa/AmKilopa)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 15th, 2025, 6:28:06 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<br>
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
