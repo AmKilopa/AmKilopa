@@ -44,6 +44,14 @@
 
 <br>
 
+<h2 align="center">Recent Activity</h2>
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
+<br>
+
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
